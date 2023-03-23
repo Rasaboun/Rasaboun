@@ -10,7 +10,7 @@ I am a frontend developper.
 
 - 📗 42Paris student from 2019.
 
-## Skills
+### Skills
 
 ### ✍️ Languages
 
