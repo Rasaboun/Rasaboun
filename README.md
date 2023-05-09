@@ -12,7 +12,7 @@
 
 <p align="left">📚 I am a student of 42Paris</p>
 
-<p align="left">My Blog <a href="www.rasaboun.me">rasaboun</a></p>
+<p align="left">My Blog <a href="https://www.rasaboun.me">rasaboun</a></p>
 
 ###
 
