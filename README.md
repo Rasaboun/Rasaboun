@@ -12,6 +12,8 @@
 
 <p align="left">📚 I am a student of 42Paris</p>
 
+<p align="left">My Blog <a href="www.rasaboun.me">rasaboun</a></p>
+
 ###
 
 <h2 align="left">I code with</h2>
